@@ -1,0 +1,17 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "itemGroup.extendedfoods": "Extended Foods",
+
+  "block.extendedfoods.carrot_cake": "Carrot Cake",
+  "item.extendedfoods.carrot_cake": "Carrot Cake",
+  "block.extendedfoods.chocolate_cake": "Chocolate Cake",
+  "item.extendedfoods.chocolate_cake": "Chocolate Cake",
+
+  "item.extendedfoods.apple_pie": "Apple Pie",
+
+  "item.extendedfoods.enchanted_golden_cookie": "Enchanted Golden Cookie",
+  "item.extendedfoods.golden_cookie": "Golden Cookie"
+}

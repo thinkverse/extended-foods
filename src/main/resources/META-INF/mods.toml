@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+[[mods]]
+    modId="extendedfoods"
+    version="${file.jarVersion}"
+    displayName="Extended Foods"
+    authors="Thinkverse"
+    description='''More foods with vanilla flavour.'''
+
+[[dependencies.extendedfoods]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.extendedfoods]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"

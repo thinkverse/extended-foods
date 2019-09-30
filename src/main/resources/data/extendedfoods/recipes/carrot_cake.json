@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "SES",
+    "WCW"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "extendedfoods:carrot_cake"
+  }
+}

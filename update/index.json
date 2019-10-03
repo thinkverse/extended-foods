@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/extended-foods/",
+  "promos": {
+    "1.14.4-latest": "0.0.1-beta",
+    "1.14.4-recommended": "0.0.1-beta"
+  },
+  "1.14.4": {
+    "0.0.1-beta": "initial 1.14.4 build!"
+  }
+}

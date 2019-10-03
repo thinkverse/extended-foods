@@ -22,7 +22,7 @@ import java.util.Optional;
 @Mod(ExtendedFoods.MODID)
 public class ExtendedFoods {
     public static final String MODID = "extendedfoods";
-    public static final String VERSION = "0.0.1-beta";
+    public static final String VERSION = "0.0.2-beta";
 
     public static IProxy PROXY = DistExecutor.runForDist(() -> () -> new ClientProxy(), () -> () -> new ServerProxy());
 

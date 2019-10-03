@@ -22,20 +22,20 @@ public class LootTableEvent {
         if(event.getName().equals(STRONGHOLD)) {
             LootTable table = event.getTable();
 
-            LootUtils.addItemToTable(table, ItemHolder.GOLDEN_COOKIE, 1, 0.8F, 1, ItemHolder.GOLDEN_COOKIE.getTranslationKey());
+            LootUtils.addItemToTable(table, ItemHolder.GOLDEN_COOKIE, 1, 0.8F, 1, 4, ItemHolder.GOLDEN_COOKIE.getTranslationKey());
         }
 
         if(event.getName().equals(WOODLAND) || event.getName().equals(DUNGEON) || event.getName().equals(PYRAMID)) {
             LootTable table = event.getTable();
 
-            LootUtils.addItemToTable(table, ItemHolder.GOLDEN_COOKIE, 15, 0.8F, 1, ItemHolder.GOLDEN_COOKIE.getTranslationKey());
+            LootUtils.addItemToTable(table, ItemHolder.GOLDEN_COOKIE, 15, 0.6F, 1, 3, ItemHolder.GOLDEN_COOKIE.getTranslationKey());
             LootUtils.addItemToTable(table, ItemHolder.ENCHANTED_GOLDEN_COOKIE, 2, 0.5F, 1, ItemHolder.ENCHANTED_GOLDEN_COOKIE.getTranslationKey());
         }
 
         if(event.getName().equals(MINESHAFT)) {
             LootTable table = event.getTable();
 
-            LootUtils.addItemToTable(table, ItemHolder.GOLDEN_COOKIE, 20, 0.8F, 1, ItemHolder.GOLDEN_COOKIE.getTranslationKey());
+            LootUtils.addItemToTable(table, ItemHolder.GOLDEN_COOKIE, 20, 0.6F, 1, 3, ItemHolder.GOLDEN_COOKIE.getTranslationKey());
             LootUtils.addItemToTable(table, ItemHolder.ENCHANTED_GOLDEN_COOKIE, 1, 0.5F, 1, ItemHolder.ENCHANTED_GOLDEN_COOKIE.getTranslationKey());
         }
     }

@@ -4,6 +4,7 @@ loaderVersion="[28,)"
     modId="extendedfoods"
     version="${file.jarVersion}"
     displayName="Extended Foods"
+    credits="Clownvin, HarryTechRevs, SilentChaos512, Champion Ash5357, Draco18s & Boy132"
     authors="Thinkverse"
     description='''More foods with vanilla flavour.'''
 

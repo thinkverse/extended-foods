@@ -5,6 +5,6 @@
     "1.14.4-recommended": "0.0.2-beta"
   },
   "1.14.4": {
-    "0.0.2-beta": "feature: added Golden Cookie/Enchanted Golden Cookie to vanilla loot tables"
+    "0.0.2-beta": "feature: added Golden Cookie/Enchanted Golden Cookie to vanilla loot tables\nfix: added issue, update url"
   }
 }

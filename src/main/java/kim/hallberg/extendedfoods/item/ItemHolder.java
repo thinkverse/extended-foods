@@ -4,7 +4,7 @@ import kim.hallberg.extendedfoods.ExtendedFoods;
 import net.minecraft.item.Item;
 import net.minecraftforge.registries.ObjectHolder;
 
-import static kim.hallberg.extendedfoods.util.Injection.Null;
+import static kim.hallberg.extendedfoods.util.InjectionUtil.Null;
 
 @ObjectHolder(ExtendedFoods.MODID)
 public class ItemHolder {

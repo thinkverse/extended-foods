@@ -1,9 +1,13 @@
 modLoader="javafml"
 loaderVersion="[28,)"
+issueTrackerURL="https://github.com/thinkverse/extended-foods/issues"
+
 [[mods]]
     modId="extendedfoods"
     version="${file.jarVersion}"
     displayName="Extended Foods"
+    displayURL="https://thinkverse.dev/extended-foods"
+    updateJSONURL="https://thinkverse.dev/extended-foods/update"
     credits="Clownvin, HarryTechRevs, SilentChaos512, Champion Ash5357, Draco18s & Boy132"
     authors="Thinkverse"
     description='''More foods with vanilla flavour.'''
